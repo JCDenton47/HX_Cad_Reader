@@ -560,7 +560,7 @@ void Generate_path(back_plate* const bp_ptr)
 
     Apath.rsx = bp_ptr->minWidth * 10;
     // Apath.rsy = bp_ptr->minHeight * 10;
-    Apath.rsy    = bp_ptr->minHeight * 10;
+    Apath.rsy    = bp_ptr->maxHeight * 10;
     Apath.height = (bp_ptr->maxHeight - bp_ptr->minHeight) * 10;
     Apath.width  = (bp_ptr->maxWidth  - bp_ptr->minWidth) * 10;
 
