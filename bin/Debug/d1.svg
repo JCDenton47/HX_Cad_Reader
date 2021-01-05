@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="574.877115"
+   height="634.472001"
+>
+	<defs>
+	<g id="symbol-D6" >
+		<!-- * -->
+	</g>
+	<g id="symbol-281" >
+		<!-- _ -->
+	</g>
+	</defs>
+block_header_output_complete!
+	<g id="symbol-1F" >
+		<!-- * -->
+	line color : red  d="M 746.248,1118.440 746.248,800.758" index : 157
+	line color : red  d="M 746.248,800.758 756.248,800.758" index : 156
+	line color : red  d="M 756.248,1118.440 756.248,800.758" index : 158
+	line color : red  d="M 746.248,1118.440 756.248,1118.440" index : 155
+hatch->num_boundary_handles:4 
+	line color : red  d="M 746.248,1118.440 756.248,1118.440" index : 155
+	line color : red  d="M 746.248,800.758 756.248,800.758" index : 156
+	line color : red  d="M 746.248,1118.440 746.248,800.758" index : 157
+	line color : red  d="M 756.248,1118.440 756.248,800.758" index : 158
+	</g>
+</svg>

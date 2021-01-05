@@ -1,0 +1,251 @@
+paper: x_min: 2011.199,  y_max: 4090.656,  y_min: 215.782, y_max: 1572.983
+all the dwg_model_space elements are listed as follow
+	id="symbol-225"
+name:*
+	line color  : red    
+"start.x: 3137.170, start.y: 522.399   end.x: 3081.328, end.y: 522.399"index : 0
+horizontal
+start.x:3137.170
+start.x:3081.328
+	line color  : red    
+"start.x: 3056.611, start.y: 522.399   end.x: 2831.708, end.y: 522.399"index : 0
+horizontal
+start.x:3056.611
+start.x:2831.708
+	line color  : red    
+"start.x: 2805.619, start.y: 522.399   end.x: 2581.663, end.y: 522.399"index : 0
+horizontal
+start.x:2805.619
+start.x:2581.663
+	line color  : red    
+"start.x: 2555.491, start.y: 522.399   end.x: 2497.691, end.y: 522.399"index : 0
+horizontal
+start.x:2555.491
+start.x:2497.691
+	line color  : red    
+"start.x: 3137.170, start.y: 532.399   end.x: 3081.328, end.y: 532.399"index : 0
+horizontal
+start.x:3137.170
+start.x:3081.328
+	line color  : red    
+"start.x: 3056.611, start.y: 532.399   end.x: 2831.708, end.y: 532.399"index : 0
+horizontal
+start.x:3056.611
+start.x:2831.708
+	line color  : red    
+"start.x: 2805.619, start.y: 532.399   end.x: 2581.663, end.y: 532.399"index : 0
+horizontal
+start.x:2805.619
+start.x:2581.663
+	line color  : red    
+"start.x: 2555.491, start.y: 532.399   end.x: 2497.691, end.y: 532.399"index : 0
+horizontal
+start.x:2555.491
+start.x:2497.691
+	line color  : red    
+"start.x: 2333.091, start.y: 982.799   end.x: 3304.091, end.y: 982.799"index : 0
+horizontal
+	line color  : red    
+"start.x: 2333.091, start.y: 972.799   end.x: 3304.091, end.y: 972.799"index : 0
+horizontal
+	line color  : red    
+"start.x: 2512.591, start.y: 532.399   end.x: 2512.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 2522.591, start.y: 532.399   end.x: 2522.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 2674.591, start.y: 572.845   end.x: 2674.591, end.y: 736.979"index : 0
+vertical
+	line color  : red    
+"start.x: 2674.591, start.y: 787.524   end.x: 2674.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 2684.591, start.y: 572.845   end.x: 2684.591, end.y: 736.979"index : 0
+vertical
+	line color  : red    
+"start.x: 2684.591, start.y: 787.524   end.x: 2684.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 2790.591, start.y: 532.399   end.x: 2790.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 2800.591, start.y: 532.399   end.x: 2800.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 2956.591, start.y: 572.845   end.x: 2956.591, end.y: 735.972"index : 0
+vertical
+	line color  : red    
+"start.x: 2956.591, start.y: 787.524   end.x: 2956.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 2966.591, start.y: 572.845   end.x: 2966.591, end.y: 735.972"index : 0
+vertical
+	line color  : red    
+"start.x: 2966.591, start.y: 787.524   end.x: 2966.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 3114.591, start.y: 532.399   end.x: 3114.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 3124.591, start.y: 532.399   end.x: 3124.591, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 3287.091, start.y: 522.399   end.x: 3287.091, end.y: 837.781"index : 0
+vertical
+	line color  : red    
+"start.x: 3297.091, start.y: 522.399   end.x: 3297.091, end.y: 837.781"index : 0
+vertical
+	line color  : red    
+"start.x: 2340.091, start.y: 837.781   end.x: 2340.091, end.y: 972.796"index : 0
+vertical
+	line color  : red    
+"start.x: 2350.091, start.y: 837.781   end.x: 2350.091, end.y: 972.796"index : 0
+vertical
+	line color  : red    
+"start.x: 3287.091, start.y: 837.781   end.x: 3287.091, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 3297.091, start.y: 837.781   end.x: 3297.091, end.y: 972.799"index : 0
+vertical
+	line color  : red    
+"start.x: 2340.091, start.y: 837.781   end.x: 2340.091, end.y: 520.099"index : 0
+vertical
+start.y:837.781
+start.y:520.099
+	line color  : red    
+"start.x: 2350.091, start.y: 837.781   end.x: 2350.091, end.y: 520.099"index : 0
+vertical
+start.y:837.781
+start.y:520.099
+final result
+origin :(2262.441, 1069.039), L_side 1112.300, S_side length 639.300
+model space output complete!
+test sort
+ (2340.091, 520.099), (2340.091, 837.781) 
+ (2340.091, 837.781), (2340.091, 972.796) 
+ (2350.091, 520.099), (2350.091, 837.781) 
+ (2350.091, 837.781), (2350.091, 972.796) 
+ (2512.591, 532.399), (2512.591, 972.799) 
+ (2522.591, 532.399), (2522.591, 972.799) 
+ (2674.591, 572.845), (2674.591, 736.979) 
+ (2674.591, 787.524), (2674.591, 972.799) 
+ (2684.591, 572.845), (2684.591, 736.979) 
+ (2684.591, 787.524), (2684.591, 972.799) 
+ (2790.591, 532.399), (2790.591, 972.799) 
+ (2800.591, 532.399), (2800.591, 972.799) 
+ (2956.591, 572.845), (2956.591, 735.972) 
+ (2956.591, 787.524), (2956.591, 972.799) 
+ (2966.591, 572.845), (2966.591, 735.972) 
+ (2966.591, 787.524), (2966.591, 972.799) 
+ (3114.591, 532.399), (3114.591, 972.799) 
+ (3124.591, 532.399), (3124.591, 972.799) 
+ (3287.091, 522.399), (3287.091, 837.781) 
+ (3287.091, 837.781), (3287.091, 972.799) 
+ (3297.091, 522.399), (3297.091, 837.781) 
+ (3297.091, 837.781), (3297.091, 972.799) 
+dir: DIR_V
+
+
+ V(2345.091, 520.099), (2345.091, 837.781) 
+ V(2345.091, 837.781), (2345.091, 972.796) 
+ V(2517.591, 532.399), (2517.591, 972.799) 
+ V(2679.591, 572.845), (2679.591, 736.979) 
+ V(2679.591, 787.524), (2679.591, 972.799) 
+ V(2795.591, 532.399), (2795.591, 972.799) 
+ V(2961.591, 572.845), (2961.591, 735.972) 
+ V(2961.591, 787.524), (2961.591, 972.799) 
+ V(3119.591, 532.399), (3119.591, 972.799) 
+ V(3292.091, 522.399), (3292.091, 837.781) 
+ V(3292.091, 837.781), (3292.091, 972.799) 
+test sort
+ (2497.691, 522.399), (2555.491, 522.399) 
+ (2581.663, 522.399), (2805.619, 522.399) 
+ (2831.708, 522.399), (3056.611, 522.399) 
+ (3081.328, 522.399), (3137.170, 522.399) 
+ (2497.691, 532.399), (2555.491, 532.399) 
+ (2581.663, 532.399), (2805.619, 532.399) 
+ (2831.708, 532.399), (3056.611, 532.399) 
+ (3081.328, 532.399), (3137.170, 532.399) 
+ (2333.091, 972.799), (3304.091, 972.799) 
+ (2333.091, 982.799), (3304.091, 982.799) 
+dir: DIR_H
+
+
+ H(2497.691, 527.399), (2555.491, 527.399) 
+ H(2581.663, 527.399), (2805.619, 527.399) 
+ H(2831.708, 527.399), (3056.611, 527.399) 
+ H(3081.328, 527.399), (3137.170, 527.399) 
+ H(2333.091, 977.799), (3304.091, 977.799) 
+total actual path 16
+sx: 24976, sy: 5273, ex: 25554, ey: 5273
+sx: 25816, sy: 5273, ex: 28056, ey: 5273
+sx: 28317, sy: 5273, ex: 30566, ey: 5273
+sx: 30813, sy: 5273, ex: 31371, ey: 5273
+sx: 32920, sy: 5223, ex: 32920, ey: 8377
+sx: 32920, sy: 8377, ex: 32920, ey: 9727
+sx: 31195, sy: 9727, ex: 31195, ey: 5323
+sx: 29615, sy: 5728, ex: 29615, ey: 7359
+sx: 29615, sy: 7875, ex: 29615, ey: 9727
+sx: 27955, sy: 9727, ex: 27955, ey: 5323
+sx: 26795, sy: 5728, ex: 26795, ey: 7369
+sx: 26795, sy: 7875, ex: 26795, ey: 9727
+sx: 25175, sy: 9727, ex: 25175, ey: 5323
+sx: 23450, sy: 5200, ex: 23450, ey: 8377
+sx: 23450, sy: 8377, ex: 23450, ey: 9727
+sx: 23330, sy: 9777, ex: 33040, ey: 9777
+
+
+
+sx: 25554, sy: 5273, ex: 25816, ey: 5273
+sx: 28056, sy: 5273, ex: 28317, ey: 5273
+sx: 30566, sy: 5273, ex: 30813, ey: 5273
+sx: 31371, sy: 5273, ex: 32920, ey: 5223
+sx: 32920, sy: 8377, ex: 32920, ey: 8377
+sx: 32920, sy: 9727, ex: 31195, ey: 9727
+sx: 31195, sy: 5323, ex: 29615, ey: 5728
+sx: 29615, sy: 7359, ex: 29615, ey: 7875
+sx: 29615, sy: 9727, ex: 27955, ey: 9727
+sx: 27955, sy: 5323, ex: 26795, ey: 5728
+sx: 26795, sy: 7369, ex: 26795, ey: 7875
+sx: 26795, sy: 9727, ex: 25175, ey: 9727
+sx: 25175, sy: 5323, ex: 23450, ey: 5200
+sx: 23450, sy: 8377, ex: 23450, ey: 8377
+sx: 23450, sy: 9727, ex: 23330, ey: 9777
+sx: 33040, sy: 9777, ex: 24976, ey: 5273
+
+
+
+real: sx :24976, sy :5273, ex :25554, ey :5273
+empty: sx :25554, sy :5273, ex :25816, ey :5273
+real: sx :25816, sy :5273, ex :28056, ey :5273
+empty: sx :28056, sy :5273, ex :28317, ey :5273
+real: sx :28317, sy :5273, ex :30566, ey :5273
+empty: sx :30566, sy :5273, ex :30813, ey :5273
+real: sx :30813, sy :5273, ex :31371, ey :5273
+empty: sx :31371, sy :5273, ex :32920, ey :5223
+real: sx :32920, sy :5223, ex :32920, ey :8377
+empty: sx :32920, sy :8377, ex :32920, ey :8377
+real: sx :32920, sy :8377, ex :32920, ey :9727
+empty: sx :32920, sy :9727, ex :31195, ey :9727
+real: sx :31195, sy :9727, ex :31195, ey :5323
+empty: sx :31195, sy :5323, ex :29615, ey :5728
+real: sx :29615, sy :5728, ex :29615, ey :7359
+empty: sx :29615, sy :7359, ex :29615, ey :7875
+real: sx :29615, sy :7875, ex :29615, ey :9727
+empty: sx :29615, sy :9727, ex :27955, ey :9727
+real: sx :27955, sy :9727, ex :27955, ey :5323
+empty: sx :27955, sy :5323, ex :26795, ey :5728
+real: sx :26795, sy :5728, ex :26795, ey :7369
+empty: sx :26795, sy :7369, ex :26795, ey :7875
+real: sx :26795, sy :7875, ex :26795, ey :9727
+empty: sx :26795, sy :9727, ex :25175, ey :9727
+real: sx :25175, sy :9727, ex :25175, ey :5323
+empty: sx :25175, sy :5323, ex :23450, ey :5200
+real: sx :23450, sy :5200, ex :23450, ey :8377
+empty: sx :23450, sy :8377, ex :23450, ey :8377
+real: sx :23450, sy :8377, ex :23450, ey :9727
+empty: sx :23450, sy :9727, ex :23330, ey :9777
+real: sx :23330, sy :9777, ex :33040, ey :9777
+empty: sx :33040, sy :9777, ex :24976, ey :5273
+width 11122, height 6393

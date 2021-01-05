@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="libdwg_exmaple" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/libdwg_exmaple" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/libdwg_exmaple" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="PathGen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PathGen.h" />
+		<Unit filename="back_plate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="back_plate.h" />
+		<Unit filename="libinclude/dwg.h" />
+		<Unit filename="libinclude/dwg_api.h" />
+		<Unit filename="libsrc/bits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/bits.h" />
+		<Unit filename="libsrc/classes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/classes.h" />
+		<Unit filename="libsrc/common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/common.h" />
+		<Unit filename="libsrc/config.h" />
+		<Unit filename="libsrc/dec_macros.h" />
+		<Unit filename="libsrc/decode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/decode.h" />
+		<Unit filename="libsrc/decode_r2007.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/dwg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/dwg_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/dynapi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/dynapi.h" />
+		<Unit filename="libsrc/encode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/encode.h" />
+		<Unit filename="libsrc/free.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/free.h" />
+		<Unit filename="libsrc/hash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/hash.h" />
+		<Unit filename="libsrc/importer.h" />
+		<Unit filename="libsrc/in_dxf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/in_dxf.h" />
+		<Unit filename="libsrc/in_json.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/in_json.h" />
+		<Unit filename="libsrc/logging.h" />
+		<Unit filename="libsrc/myalloca.h" />
+		<Unit filename="libsrc/out_dxf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/out_dxf.h" />
+		<Unit filename="libsrc/out_dxfb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/out_geojson.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/out_json.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/out_json.h" />
+		<Unit filename="libsrc/print.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/print.h" />
+		<Unit filename="libsrc/reedsolomon.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libsrc/reedsolomon.h" />
+		<Unit filename="libsrc/spec.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simplemath.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simplemath.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

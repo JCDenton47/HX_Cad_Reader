@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="3401.224734"
+   height="8198.688164"
+>
+	<defs>
+block_header_output_complete!
+	<g id="symbol-20D" >
+		<!-- * -->
+	<use id="dwg-object-4272" transform="translate(9385.301544 10272.214866) rotate(0.000000) scale(4.002100 4.002100)" xlink:href="#symbol-25A7" /><!-- block_header->handleref: 0.2.3158 -->
+	<use id="dwg-object-4273" transform="translate(-5973.069941 8204.849497) rotate(0.000000) scale(4.000000 4.000000)" xlink:href="#symbol-3090" /><!-- block_header->handleref: 0.2.3159 -->
+	<use id="dwg-object-4274" transform="translate(-1372.478541 7672.171120) rotate(0.000000) scale(4.000000 4.000000)" xlink:href="#symbol-30B1" /><!-- block_header->handleref: 0.2.315A -->
+	<use id="dwg-object-4275" transform="translate(-11899.547915 5429.933035) rotate(0.000000) scale(4.000000 4.000000)" xlink:href="#symbol-3088" /><!-- block_header->handleref: 0.2.315B -->
+	<use id="dwg-object-4276" transform="translate(-239.946554 5592.438416) rotate(0.000000) scale(4.000000 4.000000)" xlink:href="#symbol-30B6" /><!-- block_header->handleref: 0.2.315C -->
+	<path id="dwg-object-4279" d="M 1582.409516,426.953656 1582.409516,411.953656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4280" d="M 1590.409516,426.953656 1590.409516,411.953656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4281" d="M 1591.409516,426.953656 1591.409516,411.953656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4282" d="M 1583.409516,426.953656 1583.409516,411.953656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4284" d="M 1549.165485,426.891156 1549.165485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4285" d="M 1560.915485,428.147156 1560.915485,410.647156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4286" d="M 1578.415485,410.647156 1578.415485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4287" d="M 1629.915485,427.897156 1629.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4288" d="M 1647.415485,410.897156 1647.415485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4289" d="M 1698.915485,427.897156 1698.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4290" d="M 1716.415485,410.897156 1716.415485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4291" d="M 1767.915485,427.897156 1767.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4292" d="M 1785.415485,410.897156 1785.415485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4293" d="M 1836.915485,427.897156 1836.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4294" d="M 1560.915485,410.647156 1578.415485,410.647156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4295" d="M 2319.915485,410.647156 2337.415485,410.647156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4316" d="M 1549.165485,411.891156 1560.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4317" d="M 1578.415485,411.891156 1629.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4318" d="M 1647.415485,411.891156 1698.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4319" d="M 1716.415485,411.891156 1767.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4320" d="M 1785.415485,411.891156 1836.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4321" d="M 1854.415485,411.891156 1905.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4322" d="M 1923.415485,411.891156 1974.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4323" d="M 1992.415485,411.891156 2043.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4324" d="M 2061.415485,411.891156 2112.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4325" d="M 2130.415485,411.891156 2181.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4326" d="M 2199.415485,411.891156 2250.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4327" d="M 2268.415485,411.891156 2319.915485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4328" d="M 2337.415485,411.891156 2349.165485,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4333" d="M 1854.415485,410.897156 1854.415485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4334" d="M 2349.165485,426.891156 2337.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4335" d="M 2319.915485,426.891156 2268.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4336" d="M 2250.915485,426.891156 2199.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4337" d="M 2181.915485,426.891156 2130.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4338" d="M 2112.915485,426.891156 2061.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4339" d="M 2043.915485,426.891156 1992.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4340" d="M 1974.915485,426.891156 1923.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4341" d="M 1905.915485,426.891156 1854.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4342" d="M 1836.915485,426.891156 1785.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4343" d="M 1767.915485,426.891156 1716.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4344" d="M 1698.915485,426.891156 1647.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4345" d="M 1629.915485,426.891156 1578.415485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4346" d="M 1560.915485,426.891156 1549.165485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4347" d="M 2337.415485,428.147156 2319.915485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4348" d="M 1992.415485,428.147156 1974.915485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4349" d="M 1923.415485,428.147156 1905.915485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4350" d="M 1578.415485,428.147156 1560.915485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4351" d="M 1647.415485,427.897156 1629.915485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4352" d="M 1716.415485,427.897156 1698.915485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4353" d="M 1785.415485,427.897156 1767.915485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4354" d="M 1854.415485,427.897156 1836.915485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4355" d="M 2061.415485,427.897156 2043.915485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4356" d="M 2130.415485,427.897156 2112.915485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4357" d="M 2199.415485,427.897156 2181.915485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4358" d="M 2268.415485,427.897156 2250.915485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4359" d="M 1905.915485,428.147156 1905.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4360" d="M 1923.415485,410.897156 1923.415485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4363" d="M 1974.915485,428.147156 1974.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4364" d="M 1992.415485,410.897156 1992.415485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4365" d="M 2043.915485,427.897156 2043.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4366" d="M 2061.415485,410.897156 2061.415485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4367" d="M 2112.915485,427.897156 2112.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4368" d="M 2130.415485,410.897156 2130.415485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4369" d="M 2181.915485,427.897156 2181.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4370" d="M 2199.415485,410.897156 2199.415485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4371" d="M 2250.915485,427.897156 2250.915485,410.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4372" d="M 2268.415485,410.897156 2268.415485,427.897156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4373" d="M 2319.915485,428.147156 2319.915485,410.647156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4374" d="M 2337.415485,410.647156 2337.415485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4375" d="M 2349.165485,411.891156 2349.165485,426.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4400" d="M 1741.305534,426.891156 1741.305534,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4401" d="M 1749.305534,426.891156 1749.305534,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4402" d="M 1750.305534,426.891156 1750.305534,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4403" d="M 1742.305534,426.891156 1742.305534,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4407" d="M 2315.921455,426.953656 2315.921455,411.953656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4408" d="M 2307.921455,426.953656 2307.921455,411.953656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4409" d="M 2306.921455,426.953656 2306.921455,411.953656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4410" d="M 2314.921455,426.953656 2314.921455,411.953656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4414" d="M 2157.025437,426.891156 2157.025437,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4415" d="M 2149.025437,426.891156 2149.025437,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4416" d="M 2148.025437,426.891156 2148.025437,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4417" d="M 2156.025437,426.891156 2156.025437,411.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4421" d="M 1582.409516,216.947656 1582.409516,201.947656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4422" d="M 1590.409516,216.947656 1590.409516,201.947656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4423" d="M 1591.409516,216.947656 1591.409516,201.947656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4424" d="M 1583.409516,216.947656 1583.409516,201.947656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4426" d="M 1549.165485,216.885156 1549.165485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4427" d="M 1560.915485,218.141156 1560.915485,200.641156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4428" d="M 1578.415485,200.641156 1578.415485,218.141156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4429" d="M 1629.915485,217.891156 1629.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4430" d="M 1647.415485,200.891156 1647.415485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4431" d="M 1698.915485,217.891156 1698.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4432" d="M 1716.415485,200.891156 1716.415485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4433" d="M 1767.915485,217.891156 1767.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4434" d="M 1785.415485,200.891156 1785.415485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4435" d="M 1836.915485,217.891156 1836.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4436" d="M 1560.915485,200.641156 1578.415485,200.641156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4437" d="M 2319.915485,200.641156 2337.415485,200.641156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4458" d="M 1549.165485,201.885156 1560.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4459" d="M 1578.415485,201.885156 1629.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4460" d="M 1647.415485,201.885156 1698.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4461" d="M 1716.415485,201.885156 1767.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4462" d="M 1785.415485,201.885156 1836.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4463" d="M 1854.415485,201.885156 1905.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4464" d="M 1923.415485,201.885156 1974.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4465" d="M 1992.415485,201.885156 2043.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4466" d="M 2061.415485,201.885156 2112.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4467" d="M 2130.415485,201.885156 2181.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4468" d="M 2199.415485,201.885156 2250.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4469" d="M 2268.415485,201.885156 2319.915485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4470" d="M 2337.415485,201.885156 2349.165485,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4475" d="M 1854.415485,200.891156 1854.415485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4476" d="M 2349.165485,216.885156 2337.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4477" d="M 2319.915485,216.885156 2268.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4478" d="M 2250.915485,216.885156 2199.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4479" d="M 2181.915485,216.885156 2130.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4480" d="M 2112.915485,216.885156 2061.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4481" d="M 2043.915485,216.885156 1992.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4482" d="M 1974.915485,216.885156 1923.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4483" d="M 1905.915485,216.885156 1854.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4484" d="M 1836.915485,216.885156 1785.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4485" d="M 1767.915485,216.885156 1716.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4486" d="M 1698.915485,216.885156 1647.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4487" d="M 1629.915485,216.885156 1578.415485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4488" d="M 1560.915485,216.885156 1549.165485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4489" d="M 2337.415485,218.141156 2319.915485,218.141156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4490" d="M 1992.415485,218.141156 1974.915485,218.141156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4491" d="M 1923.415485,218.141156 1905.915485,218.141156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4492" d="M 1578.415485,218.141156 1560.915485,218.141156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4493" d="M 1647.415485,217.891156 1629.915485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4494" d="M 1716.415485,217.891156 1698.915485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4495" d="M 1785.415485,217.891156 1767.915485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4496" d="M 1854.415485,217.891156 1836.915485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4497" d="M 2061.415485,217.891156 2043.915485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4498" d="M 2130.415485,217.891156 2112.915485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4499" d="M 2199.415485,217.891156 2181.915485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4500" d="M 2268.415485,217.891156 2250.915485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4501" d="M 1905.915485,218.141156 1905.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4502" d="M 1923.415485,200.891156 1923.415485,218.141156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4505" d="M 1974.915485,218.141156 1974.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4506" d="M 1992.415485,200.891156 1992.415485,218.141156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4507" d="M 2043.915485,217.891156 2043.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4508" d="M 2061.415485,200.891156 2061.415485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4509" d="M 2112.915485,217.891156 2112.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4510" d="M 2130.415485,200.891156 2130.415485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4511" d="M 2181.915485,217.891156 2181.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4512" d="M 2199.415485,200.891156 2199.415485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4513" d="M 2250.915485,217.891156 2250.915485,200.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4514" d="M 2268.415485,200.891156 2268.415485,217.891156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4515" d="M 2319.915485,218.141156 2319.915485,200.641156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4516" d="M 2337.415485,200.641156 2337.415485,218.141156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4517" d="M 2349.165485,201.885156 2349.165485,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4542" d="M 1741.305534,216.885156 1741.305534,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4543" d="M 1749.305534,216.885156 1749.305534,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4544" d="M 1750.305534,216.885156 1750.305534,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4545" d="M 1742.305534,216.885156 1742.305534,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4549" d="M 2315.921455,216.947656 2315.921455,201.947656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4550" d="M 2307.921455,216.947656 2307.921455,201.947656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4551" d="M 2306.921455,216.947656 2306.921455,201.947656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4552" d="M 2314.921455,216.947656 2314.921455,201.947656" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4556" d="M 2157.025437,216.885156 2157.025437,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4557" d="M 2149.025437,216.885156 2149.025437,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4558" d="M 2148.025437,216.885156 2148.025437,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4559" d="M 2156.025437,216.885156 2156.025437,201.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4561" d="M 1555.915485,479.389769 1555.915485,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4562" d="M 1545.915485,479.389769 1545.915485,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4563" d="M 1545.915485,479.389769 1555.915485,479.389769" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4564" d="M 1545.915485,149.088378 1555.915485,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4565" d="M 1733.142902,479.389769 1733.142902,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4566" d="M 1723.142902,479.389769 1723.142902,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4567" d="M 1723.142902,479.389769 1733.142902,479.389769" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4568" d="M 1723.142902,149.088378 1733.142902,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4569" d="M 2149.144591,216.885156 2164.144591,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4570" d="M 2352.415485,479.389769 2352.415485,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4571" d="M 2342.415485,479.389769 2342.415485,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4572" d="M 2342.415485,479.389769 2352.415485,479.389769" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4573" d="M 2342.415485,149.088378 2352.415485,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4574" d="M 1748.142902,216.885156 1733.142902,216.885156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4575" d="M 2342.415485,410.647156 2342.415485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4576" d="M 2352.415485,410.647156 2352.415485,428.147156" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4577" d="M 2174.144591,479.389769 2174.144591,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4578" d="M 2164.144591,479.389769 2164.144591,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4579" d="M 2164.144591,479.389769 2174.144591,479.389769" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	<path id="dwg-object-4580" d="M 2164.144591,149.088378 2174.144591,149.088378" style="fill:none;stroke:blue;stroke-width:0.1px" />
+	</g>
+</svg>
