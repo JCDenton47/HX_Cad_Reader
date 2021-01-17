@@ -556,25 +556,29 @@ void Generate_path(back_plate* const bp_ptr)
     //暂时的策略，
     // Get_minmax_xy(&Apath, ac_path);
 
-    //修改此处位置为以左上角为原点
-
+    /////这里别改，会导致cad动画错误
     Apath.rsx = bp_ptr->minWidth * 10;
-    // Apath.rsy = bp_ptr->minHeight * 10;
-    Apath.rsy    = bp_ptr->maxHeight * 10;
+    Apath.rsy = bp_ptr->minHeight * 10;
+
     Apath.height = (bp_ptr->maxHeight - bp_ptr->minHeight) * 10;
     Apath.width  = (bp_ptr->maxWidth  - bp_ptr->minWidth) * 10;
+    ////////////////////
 
-    const double fileRsx = bp_ptr->minWidth * 10;
-    const double fileRsy = bp_ptr->maxHeight * 10;
+
+    //修改此处位置为以左上角为原点
+    const int fileRsx = bp_ptr->minWidth * 10;
+    const int fileRsy = bp_ptr->maxHeight * 10;
 
     j = 0;
 
     //i == 0
     //第一个空行程不在数组里，所以我自己打出来
     //初始空行
+    //根据现场状况，将整个坐标系顺时针进行90°偏转
+    //即x, y输出位置对调，对原来的y输出添加绝对值
     fprintf(fpTXT, "%d %d %d\n",
-                ac_path[0].sx - fileRsx,
                 abs(ac_path[0].sy - fileRsy),
+                ac_path[0].sx - fileRsx,
                 is_vertical(ac_path) ? (T_VERTICAL) : (T_HORIZONTAL)
                 );//不喷,根据后面有功路径决定是否喷垂直还是水平
     for(int i = 0; i < Apath.len; ++i)
@@ -583,17 +587,18 @@ void Generate_path(back_plate* const bp_ptr)
         Apath.real_path[j++] = ac_path[i];
         Apath.real_path[j++] = empty_path[i];
         //文件输出处理后的，以左下角为原点的图纸数据
+        //对Y做abs，然后对调xy输出
         point4w tmp_ap = {
-                            ac_path[i].sx - fileRsx,
                             abs(ac_path[i].sy - fileRsy),
-                            ac_path[i].ex - fileRsx,
+                            ac_path[i].sx - fileRsx,
                             abs(ac_path[i].ey - fileRsy),
+                            ac_path[i].ex - fileRsx,
                             };
         point4w tmp_ep = {
-                            empty_path[i].sx - fileRsx,
                             abs(empty_path[i].sy - fileRsy),
-                            empty_path[i].ex - fileRsx,
+                            empty_path[i].sx - fileRsx,
                             abs(empty_path[i].ey - fileRsy),
+                            empty_path[i].ex - fileRsx,
                             };
 
         // fprintf(fpTXT, "%d %d %d %d 1\n", tmp_ap.sx, tmp_ap.sy, tmp_ap.ex, tmp_ap.ey);

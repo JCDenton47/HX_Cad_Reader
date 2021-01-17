@@ -1174,3 +1174,578 @@
 1603716131 source:c:\users\adamj\desktop\libdwg\simplemath.c
 	"simplemath.h"
 
+1606311354 source:d:\cpp_projects\libdwg\back_plate.c
+	"back_plate.h"
+	"simplemath.h"
+	"math.h"
+	"Windows.h"
+	"PathGen.h"
+
+1606311354 d:\cpp_projects\libdwg\back_plate.h
+	"libinclude/dwg.h"
+	"libinclude/dwg_api.h"
+	"simplemath.h"
+	"string.h"
+
+1598966189 d:\cpp_projects\libdwg\libinclude\dwg.h
+	<stdint.h>
+	<inttypes.h>
+	<wchar.h>
+
+1596743654 d:\cpp_projects\libdwg\libinclude\dwg_api.h
+	<stdio.h>
+	<stdbool.h>
+	"dwg.h"
+
+1603716128 d:\cpp_projects\libdwg\simplemath.h
+	"libinclude/dwg.h"
+	"libinclude/dwg_api.h"
+
+1606311354 d:\cpp_projects\libdwg\pathgen.h
+	"back_plate.h"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\bits.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdint.h>
+	<inttypes.h>
+	<math.h>
+	<wchar.h>
+	"logging.h"
+	"bits.h"
+
+1598589467 d:\cpp_projects\libdwg\libsrc\config.h
+
+1596743654 d:\cpp_projects\libdwg\libsrc\logging.h
+	<stdio.h>
+	<string.h>
+
+1596743654 d:\cpp_projects\libdwg\libsrc\bits.h
+	"config.h"
+	<wchar.h>
+	<stdio.h>
+	<string.h>
+	<stddef.h>
+	<stdbool.h>
+	"common.h"
+	"dwg.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\common.h
+	"config.h"
+	<stddef.h>
+	<stdint.h>
+	<inttypes.h>
+	"dwg.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\dwg.h
+	<stdint.h>
+	<inttypes.h>
+	<wchar.h>
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\classes.c
+	"config.h"
+	<string.h>
+	<stdlib.h>
+	"common.h"
+	"classes.h"
+	"dynapi.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\classes.h
+	"config.h"
+	<stdbool.h>
+	"common.h"
+	"dwg.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\dynapi.h
+	"config.h"
+	<stdbool.h>
+	"common.h"
+	"dwg.h"
+	<stddef.h>
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\common.c
+	"config.h"
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"logging.h"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\decode.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<assert.h>
+	"common.h"
+	"bits.h"
+	"dwg.h"
+	"hash.h"
+	"decode.h"
+	"print.h"
+	"free.h"
+	"dynapi.h"
+	"logging.h"
+	"dec_macros.h"
+	"header.spec"
+	"header_variables_r11.spec"
+	"header.spec"
+	"auxheader.spec"
+	"summaryinfo.spec"
+	"auxheader.spec"
+	"appinfo.spec"
+	"filedeplist.spec"
+	"security.spec"
+	"signature.spec"
+	"revhistory.spec"
+	"objfreespace.spec"
+	"template.spec"
+	"acds.spec"
+	"r2004_file_header.spec"
+	"header.spec"
+	"header.spec"
+	"common_entity_data.spec"
+	"common_object_handle_data.spec"
+	"header_variables.spec"
+	"common_entity_handle_data.spec"
+	"dwg.spec"
+	"classes.inc"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\hash.h
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+
+1596743654 d:\cpp_projects\libdwg\libsrc\decode.h
+	"bits.h"
+	"dwg.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\print.h
+	"dwg.h"
+	"bits.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\free.h
+	"dwg.h"
+	"bits.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\dec_macros.h
+	"config.h"
+	<ctype.h>
+	"importer.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\importer.h
+
+1596743654 d:\cpp_projects\libdwg\libsrc\header.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\spec.h
+	<string.h>
+	"decode.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\header_variables_r11.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\auxheader.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\summaryinfo.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\appinfo.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\filedeplist.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\security.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\revhistory.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\objfreespace.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\template.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\acds.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\r2004_file_header.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\common_entity_data.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\common_object_handle_data.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\header_variables.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\common_entity_handle_data.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\dwg.spec
+	"spec.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\classes.inc
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\decode_r2007.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<sys/types.h>
+	<stdbool.h>
+	<assert.h>
+	"common.h"
+	"bits.h"
+	"decode.h"
+	"dynapi.h"
+	"logging.h"
+	"dec_macros.h"
+	"summaryinfo.spec"
+	"appinfo.spec"
+	"auxheader.spec"
+	"revhistory.spec"
+	"objfreespace.spec"
+	"template.spec"
+	"filedeplist.spec"
+	"security.spec"
+	"signature.spec"
+	"acds.spec"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\dwg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<assert.h>
+	"bits.h"
+	"common.h"
+	"decode.h"
+	"dwg.h"
+	"hash.h"
+	"dynapi.h"
+	"encode.h"
+	"free.h"
+	"logging.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\encode.h
+	"bits.h"
+	"dwg.h"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\dwg_api.c
+	<stdlib.h>
+	<stdint.h>
+	<inttypes.h>
+	<math.h>
+	<assert.h>
+	"config.h"
+	<malloc.h>
+	"dwg.h"
+	"common.h"
+	"logging.h"
+	"bits.h"
+	"dwg_api.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\dwg_api.h
+	<stdio.h>
+	<stdbool.h>
+	"dwg.h"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\dynapi.c
+	"config.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	"common.h"
+	"dynapi.h"
+	"logging.h"
+	"decode.h"
+	"dwg.h"
+	"bits.h"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\encode.c
+	"config.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<assert.h>
+	<ctype.h>
+	"common.h"
+	"bits.h"
+	"dwg.h"
+	"encode.h"
+	"decode.h"
+	"classes.h"
+	"free.h"
+	"logging.h"
+	"header.spec"
+	"auxheader.spec"
+	"objfreespace.spec"
+	"revhistory.spec"
+	"summaryinfo.spec"
+	"appinfo.spec"
+	"appinfohistory.spec"
+	"filedeplist.spec"
+	"security.spec"
+	"signature.spec"
+	"acds.spec"
+	"r2004_file_header.spec"
+	"dwg.spec"
+	"classes.inc"
+	"common_entity_data.spec"
+	"common_entity_handle_data.spec"
+	"header_variables.spec"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\free.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"common.h"
+	"bits.h"
+	"dwg.h"
+	"decode.h"
+	"free.h"
+	"classes.h"
+	"hash.h"
+	"free.h"
+	"logging.h"
+	"common_entity_data.spec"
+	"common_entity_handle_data.spec"
+	"common_object_handle_data.spec"
+	"dwg.spec"
+	"objects.inc"
+	"classes.inc"
+	"objects.inc"
+	"header_variables.spec"
+	"summaryinfo.spec"
+	"appinfo.spec"
+	"filedeplist.spec"
+	"security.spec"
+	"acds.spec"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\objects.inc
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\hash.c
+	"hash.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"logging.h"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\in_dxf.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<errno.h>
+	<math.h>
+	"common.h"
+	"importer.h"
+	"bits.h"
+	"dwg.h"
+	"out_dxf.h"
+	"decode.h"
+	"encode.h"
+	"dynapi.h"
+	"hash.h"
+	"classes.h"
+	"free.h"
+	"logging.h"
+	"in_dxf.h"
+	"objects.inc"
+	"objects.inc"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\out_dxf.h
+	"dwg.h"
+	"bits.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\in_dxf.h
+	"dwg.h"
+	"bits.h"
+	"decode.h"
+	"dynapi.h"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\in_json.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<errno.h>
+	"common.h"
+	"importer.h"
+	"bits.h"
+	"dwg.h"
+	"hash.h"
+	"decode.h"
+	"dynapi.h"
+	"classes.h"
+	"in_json.h"
+	"logging.h"
+	"in_dxf.h"
+	"../jsmn/jsmn.h"
+	"objects.inc"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\in_json.h
+	"dwg.h"
+	"bits.h"
+
+1585778892 d:\cpp_projects\libdwg\jsmn\jsmn.h
+	<stddef.h>
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\out_dxf.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"common.h"
+	"bits.h"
+	"myalloca.h"
+	"dwg.h"
+	"decode.h"
+	"encode.h"
+	"out_dxf.h"
+	"logging.h"
+	"dwg.spec"
+	"classes.inc"
+	"common_entity_handle_data.spec"
+	"common_entity_data.spec"
+	"header_variables_dxf.spec"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\myalloca.h
+	"config.h"
+	<alloca.h>
+	<malloc.h>
+	<stddef.h>
+
+1596743654 d:\cpp_projects\libdwg\libsrc\header_variables_dxf.spec
+	"spec.h"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\out_dxfb.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"common.h"
+	"bits.h"
+	"dwg.h"
+	"decode.h"
+	"out_dxf.h"
+	"logging.h"
+	"dwg.spec"
+	"classes.inc"
+	"common_entity_handle_data.spec"
+	"common_entity_data.spec"
+	"header_variables_dxf.spec"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\out_geojson.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<assert.h>
+	"common.h"
+	"bits.h"
+	"myalloca.h"
+	"dwg.h"
+	"decode.h"
+	"out_json.h"
+	"logging.h"
+	"dwg_api.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\out_json.h
+	"dwg.h"
+	"bits.h"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\out_json.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<ctype.h>
+	"common.h"
+	"bits.h"
+	"myalloca.h"
+	"dwg.h"
+	"decode.h"
+	"out_json.h"
+	"logging.h"
+	"common_entity_handle_data.spec"
+	"common_entity_data.spec"
+	"common_object_handle_data.spec"
+	"dwg.spec"
+	"classes.inc"
+	"header.spec"
+	"header_variables.spec"
+	"r2004_file_header.spec"
+	"summaryinfo.spec"
+	"appinfo.spec"
+	"filedeplist.spec"
+	"security.spec"
+	"objfreespace.spec"
+	"acds.spec"
+	"template.spec"
+	"auxheader.spec"
+	"signature.spec"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\print.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"common.h"
+	"bits.h"
+	"dwg.h"
+	"decode.h"
+	"print.h"
+	"logging.h"
+	"dwg.spec"
+	"classes.inc"
+
+1596743654 source:d:\cpp_projects\libdwg\libsrc\reedsolomon.c
+	"config.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"logging.h"
+	"reedsolomon.h"
+
+1596743654 d:\cpp_projects\libdwg\libsrc\reedsolomon.h
+
+1604757699 source:d:\cpp_projects\libdwg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libinclude/dwg.h"
+	"math.h"
+	"back_plate.h"
+
+1603716131 source:d:\cpp_projects\libdwg\simplemath.c
+	"simplemath.h"
+
